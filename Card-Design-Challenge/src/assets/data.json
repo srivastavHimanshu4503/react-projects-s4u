@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "CodingLab",
+        "body": "YouTuber & Blogger",
+        "likeCount": 60.4,
+        "commentCount": 20,
+        "shareCount": 12.4
+    },
+    {
+        "id": 2,
+        "title": "DevMaster",
+        "body": "Frontend Developer",
+        "likeCount": 45.8,
+        "commentCount": 18,
+        "shareCount": 10.1
+    },
+    {
+        "id": 3,
+        "title": "CodeWithAlex",
+        "body": "Full Stack Engineer",
+        "likeCount": 72.3,
+        "commentCount": 25,
+        "shareCount": 15.7
+    },
+    {
+        "id": 4,
+        "title": "TechNova",
+        "body": "Tech Reviewer",
+        "likeCount": 38.6,
+        "commentCount": 14,
+        "shareCount": 8.9
+    },
+    {
+        "id": 5,
+        "title": "PixelGuru",
+        "body": "UI/UX Designer",
+        "likeCount": 51.2,
+        "commentCount": 19,
+        "shareCount": 11.3
+    },
+    {
+        "id": 6,
+        "title": "JSWizard",
+        "body": "JavaScript Mentor",
+        "likeCount": 80.5,
+        "commentCount": 30,
+        "shareCount": 20.4
+    },
+    {
+        "id": 7,
+        "title": "ReactNinja",
+        "body": "React Developer",
+        "likeCount": 67.9,
+        "commentCount": 22,
+        "shareCount": 14.6
+    },
+    {
+        "id": 8,
+        "title": "CodeSphere",
+        "body": "Software Engineer",
+        "likeCount": 49.1,
+        "commentCount": 17,
+        "shareCount": 9.8
+    },
+    {
+        "id": 9,
+        "title": "CyberStack",
+        "body": "Backend Developer",
+        "likeCount": 55.7,
+        "commentCount": 21,
+        "shareCount": 13.2
+    },
+    {
+        "id": 10,
+        "title": "NextGenCoder",
+        "body": "Tech Educator",
+        "likeCount": 90.4,
+        "commentCount": 35,
+        "shareCount": 24.1
+    },
+    {
+        "id": 11,
+        "title": "BugFinder",
+        "body": "Backend Developer",
+        "likeCount": 95.7,
+        "commentCount": 210,
+        "shareCount": 43.2
+    },
+    {
+        "id": 12,
+        "title": "CockroachJantaParty",
+        "body": "Political Party",
+        "likeCount": 100.4,
+        "commentCount": 135,
+        "shareCount": 124.1
+    }
+]

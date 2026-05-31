@@ -1,0 +1,44 @@
+.smooth_in {
+    position: relative;
+    left: -100%;
+    animation: motion-in 0.3s ease-in-out forwards;
+}
+
+@keyframes motion-in {
+    from {
+        left: -100%;
+    }
+
+    to {
+        left: 0%;
+    }
+}
+
+.smooth_out {
+    animation: motion-out 0.5s ease-in-out forwards;
+}
+
+@keyframes motion-out {
+    from {
+        left: 0%;
+    }
+
+    to {
+        left: -100%;
+    }
+}
+
+.hidden {
+    display: none;
+    animation: out 0.5s ease-in-out forwards;
+}
+
+@keyframes out {
+    from {
+        display: flex;
+    }
+
+    to {
+        display: none;
+    }
+}
